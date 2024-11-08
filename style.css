@@ -1,0 +1,33 @@
+header{
+    background-color: #1f2f3a;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-weight: 700;
+    text-align: center;
+}
+
+body {
+    background-color: #dfe9e4;
+}
+
+footer {
+    color: #ffffff; 
+    background-color: #1f2f3a;
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+}
+
+.bloco-esportes p {
+    text-align: justify;
+}
+
+.bloco-esportes img {
+    text-align: center;
+}
+
+.bloco-esportes h1 {
+    text-align: center;
+    font-weight: 600;
+    color: #526f83;
+}
